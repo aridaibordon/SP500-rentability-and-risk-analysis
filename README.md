@@ -26,11 +26,11 @@ Finally, using a normal aproximation we have computed the probability of obtaini
 
 The main results of our study are presented below.
 
-![](mean_returns.png)
+![](plots/mean_returns.png)
 
 The mean yearly return is analogous and yields a mean of around the 8% independently of the investment time. However the standard deviation is reduced as time increase.
 
-![](probability.png)
+![](plots/probability.png)
 
 The probability of obtaining a net profit and beating inflation is increased as one inversor stays in the market.
 
