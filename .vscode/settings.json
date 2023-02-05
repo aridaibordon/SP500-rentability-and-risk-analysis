@@ -1,0 +1,10 @@
+{
+    "python.formatting.provider": "yapf",
+    "files.exclude": {
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+    }
+}
